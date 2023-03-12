@@ -3,6 +3,7 @@
 ## Necessary Command
 
 ```
+ composer require laravel/passport
  php artisan passport:install
  php artisan passport:client --personal
  
